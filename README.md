@@ -1,6 +1,8 @@
-### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&theme=merko&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 <!--
+### Hi there 👋
+
 **nil0x42/nil0x42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
