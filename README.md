@@ -1,5 +1,10 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&cache_seconds=1800)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 ### Hi there 👋
 
