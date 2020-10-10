@@ -1,0 +1,23 @@
+name: Latest Tweets workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://rss.app/feeds/7YyygtUxDsIaLQ3s.xml"
+          comment_tag_name: LATEST-TWEETS
+          item_exec: "post.title = post.title.replace(/^RT \\@nil0x42: /,'').replace(/(?:\\r\\n|\\r|\\n)/g,' '); if (post.title.match(/^RT \\@[a-zA-Z0-9_]{1,15}: /)) post = null;"
+          title_max_length: 80
+          date_format: "mmm dd HH:MM"
+          template: "<li>$randomEmoji(💯,🔥,💫,🚀) $date <a href='$url'>$title</a></li>$newline"
+          tag_post_pre_newline: true
+          commit_message: "blog-post-workflow/latest-tweets: update"
+          committer_username: latest-tweets
+          committer_email: latest-tweets@notamail.co

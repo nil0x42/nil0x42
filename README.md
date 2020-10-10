@@ -1,13 +1,23 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&cache_seconds=1800)
 
+#### :bird: Latest Tweets
+<ul>
+<!-- LATEST-TWEETS:START -->
+<!-- LATEST-TWEETS:END -->
+</ul>
+
+<!--
 ### :zap: Recent Activity
+-->
 
 <!--START_SECTION:activity-->
+<!--
 1. ❗️ Closed issue [#27](https://github.com/nil0x42/duplicut/issues/27) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
 2. ❗️ Closed issue [#19](https://github.com/nil0x42/duplicut/issues/19) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
 3. ❗️ Closed issue [#23](https://github.com/nil0x42/duplicut/issues/23) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
 4. 🎉 Merged PR [#28](https://github.com/nil0x42/duplicut/pull/28) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
 5. 💪 Opened PR [#28](https://github.com/nil0x42/duplicut/pull/28) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
+-->
 <!--END_SECTION:activity-->
 
 <!--
