@@ -6,8 +6,8 @@
 <li>🔥 Oct 11 11:51 <a href='https://twitter.com/nil0x42/status/1315258708859944961'>#bugbountytips     #disposable gmail e-mail</a></li>
 <li>🔥 Oct 10 21:23 <a href='https://twitter.com/nil0x42/status/1315040199567704064'>Just added `last tweets` feed to my #GitHub profile. Thank to  (twitter to RSS) ...</a></li>
 <li>🚀 Oct 10 15:31 <a href='https://twitter.com/nil0x42/status/1314951689837871106'>Get #Twitter of ALL your #GitHub #followers 😎😘  With #GraphQL & 20 lines of #P...</a></li>
-<li>💯 Oct 10 10:20 <a href='https://twitter.com/sahil__soni_18/status/1314873472749694976'>@bughuntercat @Bugcrowd @Hacker0x01 @farah_hawa01 @OffsecGirl @TomNomNom @stokfr...</a></li>
-<li>🚀 Oct 09 08:37 <a href='https://twitter.com/nil0x42/status/1314485106539745281'>Save ~110Kb from you malicious EXE in a second:  Get rid of mingw's CRT 🚮 and u...</a></li>
+<li>💯 Oct 09 08:37 <a href='https://twitter.com/nil0x42/status/1314485106539745281'>Save ~110Kb from you malicious EXE in a second:  Get rid of mingw's CRT 🚮 and u...</a></li>
+<li>🚀 Oct 08 12:47 <a href='https://twitter.com/nil0x42/status/1314185772396875777'>#bugbountytips Stop bookmarking everything !  Get fresh bug bounty / pentesting ...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
