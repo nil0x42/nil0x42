@@ -3,11 +3,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>🔥 Oct 12 11:10 <a href='https://twitter.com/nil0x42/status/1315610778079240192'>💥 free data leak search engine with plaintext password access 🙈🙉🙊    #data #...</a></li>
-<li>🔥 Oct 11 20:01 <a href='https://twitter.com/nil0x42/status/1315382107703848961'>When you're tired of receiving n/a on hackerone & decide to sell next bug on rai...</a></li>
-<li>🚀 Oct 11 11:51 <a href='https://twitter.com/nil0x42/status/1315258708859944961'>#bugbountytips     #disposable gmail e-mail</a></li>
-<li>💯 Oct 11 09:39 <a href='https://twitter.com/Bank_Security/status/1315225394329518082'>A Threat Actor is selling Domain Admin access to Fortune 500 Financial Company w...</a></li>
-<li>🚀 Oct 10 21:23 <a href='https://twitter.com/nil0x42/status/1315040199567704064'>Just added `last tweets` feed to my #GitHub profile. Thank to  (twitter to RSS) ...</a></li>
+<li>Oct 15 09:42 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d86ef4a76c75dc100a9566dc6ee2c012'>📚 Awesome note-taking for Hackers 💥   just released !      A curated list of a...</a></li>
+<li>Oct 14 17:45 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d86cf0a76a7ed6130f9566d16ce5ca12'>ReconNote - Modern target recon automation for bug-bounty hunters 🤩  - by @0xde...</a></li>
+<li>Oct 12 11:10 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9db6ef2a26d7ad714089a62d168e0cb10'>💥 free data leak search engine with plaintext password access 🙈🙉🙊    #data #...</a></li>
+<li>Oct 08 20:20 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9da6afaab6f74d91c089467d36ee7c714'>Save ~110Kb from you malicious EXE in a second:  Get rid of mingw's CRT 🚮 and u...</a></li>
+<li>Oct 06 13:45 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9dd6cf4a76f7cd615079061dc6ae1c41b'>🔥 Free Leaked account data search engine, with cleartext credentials at  - by @...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
