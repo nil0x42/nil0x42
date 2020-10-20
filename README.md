@@ -3,11 +3,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Oct 19 09:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d669f2a56c75da160f9264d66ee7c515'>🤯 Ciphey - The Must-Have tool to pwn #CTF, #Hackthebox & #hacking challenges 🏴...</a></li>
 <li>Oct 16 10:21 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d968f7aa6a7cda1d0a9763d36ee5c414'>Stealthy persist & privesc on webserver with a single-line PHP backdoor ⚡️   Php...</a></li>
 <li>Oct 15 09:42 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d86ef4a76c75dc100a9566dc6ee2c012'>📚 Awesome note-taking for Hackers 💥   just released !      A curated list of a...</a></li>
 <li>Oct 14 17:45 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d86cf0a76a7ed6130f9566d16ce5ca12'>ReconNote - Modern target recon automation for bug-bounty hunters 🤩  - by @0xde...</a></li>
 <li>Oct 12 11:10 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9db6ef2a26d7ad714089a62d168e0cb10'>💥 free data leak search engine with plaintext password access 🙈🙉🙊    #data #...</a></li>
-<li>Oct 08 20:20 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9da6afaab6f74d91c089467d36ee7c714'>Save ~110Kb from you malicious EXE in a second:  Get rid of mingw's CRT 🚮 and u...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
