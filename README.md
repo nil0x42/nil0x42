@@ -12,6 +12,37 @@
 <!-- LATEST-TWEETS:END -->
 </ul>
 
+#### :gift_heart: My wonderful Supporters
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tinyapps.org/">
+        <img src="https://tinyapps.org/favicon.ico" width="100px"><br>
+        <sub><b>tinyapps.org</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FlavorlessQuark">
+        <img src="https://avatars.githubusercontent.com/u/31075794" width="100px"><br>
+        <sub><b>FlavorlessQuark</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/sponsors/nil0x42/">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
+</a>
+<a href="https://exdemia.com/donate-bitcoin">
+  <img src="https://img.shields.io/badge/Bonate-Bitcoin-F7931A?logo=bitcoin&style=flat-square">
+</a>
+<a href="https://paypal.me/nil0x42">
+  <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?logo=paypal&style=flat-square">
+</a>
+
+
+
 <!--
 ### :zap: Recent Activity
 -->
