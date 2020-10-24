@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
 </a>
 <a href="https://exdemia.com/donate-bitcoin">
-  <img src="https://img.shields.io/badge/Bonate-Bitcoin-F7931A?logo=bitcoin&style=flat-square">
+  <img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?logo=bitcoin&style=flat-square">
 </a>
 <a href="https://paypal.me/nil0x42">
   <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?logo=paypal&style=flat-square">
