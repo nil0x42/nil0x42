@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://tinyapps.org/">
-        <img src="https://tinyapps.org/favicon.ico" width="100px"><br>
+        <img src="https://pbs.twimg.com/profile_images/1244689619846750210/vqDzqh3v_400x400.png" width="100px"><br>
         <sub><b>tinyapps.org</b></sub>
       </a>
     </td>
