@@ -23,6 +23,12 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://twitter.com/r00tali">
+        <img src="https://pbs.twimg.com/profile_images/1092258933337714688/nOkj5KJq_400x400.jpg" width="100px"><br>
+        <sub><b>@r00tali</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/FlavorlessQuark">
         <img src="https://avatars.githubusercontent.com/u/31075794" width="100px"><br>
         <sub><b>FlavorlessQuark</b></sub>
