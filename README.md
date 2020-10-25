@@ -1,6 +1,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&cache_seconds=1800)
 
-<h4><a href="https://twitter.com/nil0x42"><img height=16 src=https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h4>
+<h4><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h4>
 <ul>
 <!-- LATEST-TWEETS:START -->
 <li>Oct 23 08:05 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d76df6a2697ada130d9663d76ee2c115'>💥 Get massive target netblocks list in seconds; for #BugBounty & #recon 💥   Ne...</a></li>
