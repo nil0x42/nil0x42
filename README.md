@@ -23,10 +23,10 @@
 <a href="https://github.com/FlavorlessQuark">
   <img width=120 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/FlavorlessQuark.png">
 </a>
-<br>
+<br><br>
 
 <blockquote>
-Join them & get early access to my ongoing projects :heart:<br>
+  <i>Join them & get early access to my ongoing projects :heart:</i><br>
 <a href="https://github.com/sponsors/nil0x42/">
   <img height=16 src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
 </a>
