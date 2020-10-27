@@ -3,11 +3,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Oct 26 14:23 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6ff0a0627ad8140c9a60d46fe8ca16'>🥷 Easy/Stealth command exfiltration over DNS in case of blind RCE or blocking f...</a></li>
+<li>Oct 26 12:02 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6efaa5687edb1d0c9b63d06de6c311'>Twitter ! Please unblock posting tweets with media 😢</a></li>
 <li>Oct 24 09:07 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d761f1aa6e7edd150b9465d761e6c01b'>💫 Automatically detect & exploit AWS S3 buckets from content of all pages you v...</a></li>
 <li>Oct 23 08:05 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d76df6a2697ada130d9663d76ee2c115'>💥 Get massive target netblocks list in seconds; for #BugBounty & #recon 💥   Ne...</a></li>
 <li>Oct 21 16:22 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d661f6a26d75d81d0f9a68d161e1cb13'>#bugbountytips  🎁 Make your own top-subdomains wordlist from FF history:   grep...</a></li>
-<li>Oct 19 09:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d669f2a56c75da160f9264d66ee7c515'>🤯 Ciphey - The Must-Have tool to pwn #CTF, #Hackthebox & #hacking challenges 🏴...</a></li>
-<li>Oct 16 10:21 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d968f7aa6a7cda1d0a9763d36ee5c414'>Stealthy persist & privesc on webserver with a single-line PHP backdoor ⚡️   Php...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
