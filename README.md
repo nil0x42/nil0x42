@@ -14,28 +14,16 @@
 
 #### :gift_heart: My wonderful Supporters
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://tinyapps.org/">
-        <img src="https://pbs.twimg.com/profile_images/1244689619846750210/vqDzqh3v_400x400.png" width="100px"><br>
-        <sub><b>tinyapps.org</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/r00tali">
-        <img src="https://pbs.twimg.com/profile_images/1092258933337714688/nOkj5KJq_400x400.jpg" width="100px"><br>
-        <sub><b>@r00tali</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FlavorlessQuark">
-        <img src="https://avatars.githubusercontent.com/u/31075794" width="100px"><br>
-        <sub><b>FlavorlessQuark</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://tinyapps.org/">
+  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/tinyapps.png">
+</a>
+<a href="https://twitter.com/r00tali">
+  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/r00tali.png">
+</a>
+<a href="https://github.com/FlavorlessQuark">
+  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/FlavorlessQuark.png">
+</a>
+<br>
 
 <a href="https://github.com/sponsors/nil0x42/">
   <img src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
