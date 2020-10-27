@@ -1,6 +1,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&cache_seconds=1800)
 
-<h4><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h4>
+<h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
 <li>Oct 24 09:07 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad9d761f1aa6e7edd150b9465d761e6c01b'>💫 Automatically detect & exploit AWS S3 buckets from content of all pages you v...</a></li>
@@ -12,58 +12,28 @@
 <!-- LATEST-TWEETS:END -->
 </ul>
 
-#### :gift_heart: My wonderful Supporters
+<h3>:gift_heart: My wonderful Supporters</h3>
 
 <a href="https://tinyapps.org/">
-  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/tinyapps.png">
+  <img width=120 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/tinyapps.png">
 </a>
 <a href="https://twitter.com/r00tali">
-  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/r00tali.png">
+  <img width=120 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/r00tali.png">
 </a>
 <a href="https://github.com/FlavorlessQuark">
-  <img width=100 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/FlavorlessQuark.png">
+  <img width=120 src="https://raw.githubusercontent.com/nil0x42/nil0x42/master/img/sponsors/FlavorlessQuark.png">
 </a>
 <br>
 
+<blockquote>
+Join them & get early access to my ongoing projects :heart:<br>
 <a href="https://github.com/sponsors/nil0x42/">
-  <img src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
+  <img height=16 src="https://img.shields.io/badge/Sponsor-GitHub-2C974B?logo=github&style=flat-square">
 </a>
 <a href="https://exdemia.com/donate-bitcoin">
-  <img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?logo=bitcoin&style=flat-square">
+  <img height=16 src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?logo=bitcoin&style=flat-square">
 </a>
 <a href="https://paypal.me/nil0x42">
-  <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?logo=paypal&style=flat-square">
+  <img height=16 src="https://img.shields.io/badge/Donate-PayPal-0079C1?logo=paypal&style=flat-square">
 </a>
-
-
-
-<!--
-### :zap: Recent Activity
--->
-
-<!--START_SECTION:activity-->
-<!--
-1. ❗️ Closed issue [#27](https://github.com/nil0x42/duplicut/issues/27) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
-2. ❗️ Closed issue [#19](https://github.com/nil0x42/duplicut/issues/19) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
-3. ❗️ Closed issue [#23](https://github.com/nil0x42/duplicut/issues/23) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
-4. 🎉 Merged PR [#28](https://github.com/nil0x42/duplicut/pull/28) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
-5. 💪 Opened PR [#28](https://github.com/nil0x42/duplicut/pull/28) in [nil0x42/duplicut](https://github.com/nil0x42/duplicut)
--->
-<!--END_SECTION:activity-->
-
-<!--
-### Hi there 👋
-
-**nil0x42/nil0x42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</blockquote>
