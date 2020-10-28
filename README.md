@@ -1,6 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&cache_seconds=1800)
-
-<h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
+<h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h
 <ul>
 <!-- LATEST-TWEETS:START -->
 <li>Oct 26 14:23 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6ff0a0627ad8140c9a60d46fe8ca16'>🥷 Easy/Stealth command exfiltration over DNS in case of blind RCE or blocking f...</a></li>
@@ -37,3 +35,6 @@
   <img height=16 src="https://img.shields.io/badge/Donate-PayPal-0079C1?logo=paypal&style=flat-square">
 </a>
 </blockquote>
+
+<h3>:bar_chart: Github Stats</h3>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nil0x42&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&cache_seconds=1800"></a>
