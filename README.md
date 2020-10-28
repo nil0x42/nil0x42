@@ -1,4 +1,4 @@
-<h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h
+<h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
 <li>Oct 26 14:23 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6ff0a0627ad8140c9a60d46fe8ca16'>🥷 Easy/Stealth command exfiltration over DNS in case of blind RCE or blocking f...</a></li>
