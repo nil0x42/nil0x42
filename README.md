@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Nov 04 11:26 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadd61f7ab6278d914099466d66fe3c61a'>💡 Prevent execution of commands if accidentally pasting multi-line text in your...</a></li>
 <li>Nov 02 11:41 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadd6af1aa6d7fde160f9269dc69e7ca12'>Self-Hosted VirusTotal-like to scan URLs and files from multiple #antivirus 😻  ...</a></li>
+<li>Oct 30 08:24 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadc68faa3627add150e9a61d461e9c511'>🚀 I've just released Duplicut v2.2, incredibly fast, --lowercase/--uppercase op...</a></li>
 <li>Oct 29 09:19 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadf6ff7a16e7edd100b9769d26be1c714'>⚡️ Full-featured #javascript recon automation for #bugbounty 🤩  JSFScan easily ...</a></li>
 <li>Oct 28 11:51 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadf6cf2ab6878de130e9661d46ae8c411'>💖 Thank you so much @tinyapps @r00tali @_jjosephi_ for supporting my open-sourc...</a></li>
-<li>Oct 26 14:23 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6ff0a0627ad8140c9a60d46fe8ca16'>🥷 Easy/Stealth command exfiltration over DNS in case of blind RCE or blocking f...</a></li>
-<li>Oct 26 12:02 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adade6efaa5687edb1d0c9b63d06de6c311'>Twitter ! Please unblock posting tweets with media 😢</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
