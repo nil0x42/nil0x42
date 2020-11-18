@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Nov 17 07:09 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adad66dfaa46b7bde110f9462dc69e0c115'>✨ shodan's awesome new feature - search by port ranges ! ✨    #hacking #pentesti...</a></li>
 <li>Nov 15 08:15 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adad960fba56379d6100c9367d76ae4c413'>💖  - Recon-as-a-Service for bug bounty hunters 👏  bbrecon provides a continuou...</a></li>
 <li>Nov 04 11:26 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadd61f7ab6278d914099466d66fe3c61a'>💡 Prevent execution of commands if accidentally pasting multi-line text in your...</a></li>
 <li>Nov 02 11:41 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadd6af1aa6d7fde160f9269dc69e7ca12'>Self-Hosted VirusTotal-like to scan URLs and files from multiple #antivirus 😻...</a></li>
 <li>Oct 30 08:24 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadc68faa3627add150e9a61d461e9c511'>🚀 I've just released Duplicut v2.2, incredibly fast, --lowercase/--uppercase op...</a></li>
-<li>Oct 29 09:19 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adadf6ff7a16e7edd100b9769d26be1c714'>⚡️ Full-featured #javascript recon automation for #bugbounty 🤩  JSFScan easily...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
