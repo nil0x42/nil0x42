@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Dec 26 15:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcdc60f6a06875d6170b9166d36ce6c217'>📖 Exploiting race conditions in #PHP #WebApp 😎  Practical Race Condition Vulne...</a></li>
 <li>Dec 21 09:25 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcde61f6a36f7dd716069463d261e9c611'>🤩 Automatically detect HTTP Request Smuggling vulnerabilities on target 💀  htt...</a></li>
 <li>Dec 18 08:57 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adbd760f6a56b75dd15079761d66ee6c214'>💣 Fully Undetectable Ransomware, open-source & ultra-light (~500 lines of C) ⚡️...</a></li>
 <li>Dec 14 08:40 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adbd66cf3a16978dd17099068d069e6c515'>👑 Easily find DOM #XSS while browsing 🤯  Eval Villain Firefox Extension  - by...</a></li>
 <li>Dec 04 08:21 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adbda6ff4a66c74dd100e9a62d76fe7c61b'>🤩 Find private URLs by keyword from bruteforced URL shorteners database, for #b...</a></li>
-<li>Dec 02 12:27 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adbda69f2a36278dd100a9569d26ae3ca1a'>🦊 Firefox time-saving tip: Prefix your search with a * in URL bar to search amo...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
