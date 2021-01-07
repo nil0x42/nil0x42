@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Jan 06 11:13 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcd86ff4a4637bdd120b9762d060e9c31a'>🤯 Automatically #bypass Content-Security-Policy for #XSS exploitation ⚡️  JSONB...</a></li>
 <li>Jan 05 11:54 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcd86cf1a66d7adc110b9063d16ae1ca13'>🦊 Firefox time-saving tip: Prefix your search with a % in URL bar to search amo...</a></li>
 <li>Dec 30 10:49 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcda6af0a66a75d7100f9768d56be4ca17'>🎁 Continuously updated list of ALL known #vulnerability disclosure and #bugboun...</a></li>
 <li>Dec 26 15:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcdc60f6a06875d6170b9166d36ce6c217'>📖 Exploiting race conditions in #PHP #WebApp 😎  Practical Race Condition Vulne...</a></li>
 <li>Dec 21 09:25 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcde61f6a36f7dd716069463d261e9c611'>🤩 Automatically detect HTTP Request Smuggling vulnerabilities on target 💀  htt...</a></li>
-<li>Dec 18 08:57 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adbd760f6a56b75dd15079761d66ee6c214'>💣 Fully Undetectable Ransomware, open-source & ultra-light (~500 lines of C) ⚡️...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
