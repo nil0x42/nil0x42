@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Feb 01 08:39 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6addd869f5a26b7dd915079167dd6fe1c511'>😎 Generate all IDN homograph attack variants for domain and check which ones ar...</a></li>
 <li>Jan 30 09:08 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddb6cf7a06c7fd7130a9364d46fe8c013'>ℹ️ Easily identify hashes, with popularity rating 🔓  pip3 install name-that-has...</a></li>
 <li>Jan 25 09:03 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddd6ef1ab6e7ede17099269d56ce7c613'>🕵️ Quickly find social media & website accounts by username, with  🔎  WhatsMyN...</a></li>
 <li>Jan 20 08:40 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddf60f2a36d7ddc100a9069d268e5c117'>🔥 Everything you need to know about web-application firewalls (WAF) 🎇  Awesome...</a></li>
 <li>Jan 14 11:09 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcd76ef4a76b7cd8170d9a62d56fe3cb14'>📖 Awesome note-taking for Hackers 🎁   - by @nil0x42  A curated list of tools f...</a></li>
-<li>Jan 11 09:21 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adcd66df5a26f7edf1c0b9762d060e2c217'>🧨 List the content of a publicly open s3 bucket and help to identify #data #lea...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
