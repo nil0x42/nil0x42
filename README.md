@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Feb 19 11:53 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adedc6ff0a36374dc130f9768dc6ce5c417'>🤯 #pentest #reporting application to easily write your findings and generate a...</a></li>
 <li>Feb 12 14:48 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adede6af0ab6e7ede11079767dd68e3ca1a'>🔎 Open-source #pentesting management and #reporting platform 🕵️  Plan, execute...</a></li>
 <li>Feb 01 08:39 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6addd869f5a26b7dd915079167dd6fe1c511'>😎 Generate all IDN homograph attack variants for domain and check which ones ar...</a></li>
 <li>Jan 30 09:08 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddb6cf7a06c7fd7130a9364d46fe8c013'>ℹ️ Easily identify hashes, with popularity rating 🔓  pip3 install name-that-has...</a></li>
 <li>Jan 25 09:03 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddd6ef1ab6e7ede17099269d56ce7c613'>🕵️ Quickly find social media & website accounts by username, with  🔎  WhatsMyN...</a></li>
-<li>Jan 20 08:40 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddf60f2a36d7ddc100a9069d268e5c117'>🔥 Everything you need to know about web-application firewalls (WAF) 🎇  Awesome...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
