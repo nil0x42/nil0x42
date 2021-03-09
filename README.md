@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Mar 07 13:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6aded66df7ab627ddb150f9767d560e0c210'>🗒️ I'm an heavy user of Trilium for #bugbounty note-taking 🧠  Here's how i sav...</a></li>
 <li>Mar 02 08:14 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6aded86ef5a16b78db100d9b67d16be7ca12'>🔑 Simple, very easy to understand script to perform  Bit-Flipping attack on CBC...</a></li>
 <li>Feb 19 11:53 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adedc6ff0a36374dc130f9768dc6ce5c417'>🤯 #pentest #reporting application to easily write your findings and generate a...</a></li>
 <li>Feb 12 14:48 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adede6af0ab6e7ede11079767dd68e3ca1a'>🔎 Open-source #pentesting management and #reporting platform 🕵️  Plan, execute...</a></li>
 <li>Feb 01 08:39 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6addd869f5a26b7dd915079167dd6fe1c511'>😎 Generate all IDN homograph attack variants for domain and check which ones ar...</a></li>
-<li>Jan 30 09:08 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adddb6cf7a06c7fd7130a9364d46fe8c013'>ℹ️ Easily identify hashes, with popularity rating 🔓  pip3 install name-that-has...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
