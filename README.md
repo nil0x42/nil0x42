@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>Mar 27 14:07 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfdb60f2a36c7bde170b9263d76be3c414'>🕵️ Periodically monitor the content of URLs, and detect if they were modified s...</a></li>
 <li>Mar 20 18:47 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfdd6bf7a76f7ed61c069262d361e7c110'>🔖 Fresh list of periodically validated public DNS resolvers (for masscan, nucle...</a></li>
 <li>Mar 15 15:20 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfdf6cfba3697edf1c0a9464d669e1c617'>🎇 Show quick ways in which API keys #Leaked by a #bugbounty program can be chec...</a></li>
 <li>Mar 09 09:08 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6aded76af2a1697bd8120c9768d761e2c311'>🔥 Damn fast, scriptable #webapp authentication cracker in #Rust 🔓  Concurrency...</a></li>
 <li>Mar 07 13:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6aded66df7ab627ddb150f9767d560e0c210'>🗒️ I'm an heavy user of Trilium for #bugbounty note-taking 🧠  Here's how i sav...</a></li>
-<li>Mar 02 08:14 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6aded86ef5a16b78db100d9b67d16be7ca12'>🔑 Simple, very easy to understand script to perform  Bit-Flipping attack on CBC...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
