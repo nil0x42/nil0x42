@@ -1,11 +1,11 @@
 <h3><a href="https://twitter.com/nil0x42"><img height=16 src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a> Latest Tweets</h3>
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>May 17 09:17 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6ad1da6af1a26974da160a9669d76ae7ca1b'>🔖 Find unlisted #bugbounty programs who &lpar;may&rpar; give 💲💲💲  &quot;responsible disclosure&quot;...</a></li>
-<li>Apr 05 08:55 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfd661faa66f7bd716089568d66ee2c716'>#bugbountytips  💫 Just wrote a little &quot;safe&quot; `anew` wrapper for #bugbounty autom...</a></li>
-<li>Mar 31 13:04 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfd96af7a76e7bd7100b9466d76de3c314'>🎇 Coordinate your #bugbounty reconnaissance workflows across multiple devices 🔥...</a></li>
-<li>Mar 27 14:07 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfdb60f2a36c7bde170b9263d76be3c414'>🕵️ Periodically monitor the content of URLs, and detect if they were modified si...</a></li>
-<li>Mar 20 18:47 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136beb1dab6d555969266d3f70cea0d6adfdd6bf7a76f7ed61c069262d361e7c110'>🔖 Fresh list of periodically validated public DNS resolvers &lpar;for masscan, nuclei...</a></li>
+<li>May 17 09:17 <a href='https://twitter.com/nil0x42/status/1394220395255922689'>🔖 Find unlisted #bugbounty programs who &lpar;may&rpar; give 💲💲💲  &quot;responsible disclosure&quot;...</a></li>
+<li>Apr 05 08:55 <a href='https://twitter.com/nil0x42/status/1378994568276836354'>#bugbountytips  💫 Just wrote a little &quot;safe&quot; `anew` wrapper for #bugbounty autom...</a></li>
+<li>Mar 31 13:04 <a href='https://twitter.com/nil0x42/status/1377245468447625216'>🎇 Coordinate your #bugbounty reconnaissance workflows across multiple devices 🔥...</a></li>
+<li>Mar 27 14:07 <a href='https://twitter.com/nil0x42/status/1375811661341323266'>🕵️ Periodically monitor the content of URLs, and detect if they were modified si...</a></li>
+<li>Mar 20 18:47 <a href='https://twitter.com/nil0x42/status/1373345539891269632'>🔖 Fresh list of periodically validated public DNS resolvers &lpar;for masscan, nuclei...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
